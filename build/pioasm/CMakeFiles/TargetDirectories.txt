@@ -1,0 +1,3 @@
+/home/davisid/pico/pico-projects-serial_servo/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/davisid/pico/pico-projects-serial_servo/build/pioasm/CMakeFiles/edit_cache.dir
+/home/davisid/pico/pico-projects-serial_servo/build/pioasm/CMakeFiles/pioasm.dir
